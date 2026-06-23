@@ -100,7 +100,7 @@ Without lifestyle changes, only ~30% of users are likely to show measurable impr
 ---
 
 ## 📸 Dashboard Preview
-👉 *[Insert Dashboard Screenshot(s) Here]*  
+ 
 
 
 
