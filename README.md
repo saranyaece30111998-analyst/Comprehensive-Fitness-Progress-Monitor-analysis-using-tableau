@@ -1,9 +1,3 @@
-
-
-
----
-
-
 # 📊 Comprehensive Fitness Progress Monitor Analysis
 
 ## 📌 Project Overview
