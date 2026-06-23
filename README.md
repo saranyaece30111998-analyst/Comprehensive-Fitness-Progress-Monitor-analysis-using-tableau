@@ -3,7 +3,7 @@ Here’s a professional **README.md** draft for your GitHub repository featuring
 
 ---
 
-```markdown
+
 # 📊 Comprehensive Fitness Progress Monitor Analysis
 
 ## 📌 Project Overview
