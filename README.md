@@ -100,9 +100,7 @@ Without lifestyle changes, only ~30% of users are likely to show measurable impr
 
 ---
 
-## 📸 Dashboard Preview
- 
-- <img width="1529" height="864" alt="tableau dash board" src="https://github.com/user-attachments/assets/835b8316-fd6c-4e53-9b76-c0280c962838" />
+
 
 
 
