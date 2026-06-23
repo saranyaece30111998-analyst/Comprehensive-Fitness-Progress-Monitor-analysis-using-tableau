@@ -82,14 +82,15 @@ The analysis highlights rising health risks as calorie intake continues to excee
 Without lifestyle changes, only ~30% of users are likely to show measurable improvements despite strong tracker adoption.  
 
 ---
-
 ## 📂 Repository Structure
-```
-├── data/                # Raw & cleaned datasets
-├── dashboard/           # Tableau workbook files
-├── images/              # Dashboard screenshots
-├── README.md            # Project documentation
-```
+
+| Folder / File | Description |
+|---------------|-------------|
+| `data/`       | Raw & cleaned datasets |
+| `dashboard/`  | Tableau workbook files |
+| `images/`     | Dashboard screenshots |
+| `README.md`   | Project documentation |
+
 
 ---
 
