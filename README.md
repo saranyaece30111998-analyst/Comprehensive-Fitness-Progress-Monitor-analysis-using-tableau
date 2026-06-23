@@ -1,5 +1,5 @@
 # Comprehensive-Fitness-Progress-Monitor-analysis-using-tableau
-Here’s a professional **README.md** draft for your GitHub repository 
+
 
 ---
 
