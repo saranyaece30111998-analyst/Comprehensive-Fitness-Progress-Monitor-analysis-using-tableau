@@ -47,7 +47,8 @@ The dashboard includes the following key views:
 5. **Step Count Comparison by Sleep Quality**  
 6. **User Activity Trends & Engagement**
 
-👉 *[Insert Dashboard Screenshot Here]*  
+- <img width="1529" height="864" alt="tableau dash board" src="https://github.com/user-attachments/assets/40ae5f95-34f8-45b1-904e-038e6c320382" />
+
 
 ---
 
