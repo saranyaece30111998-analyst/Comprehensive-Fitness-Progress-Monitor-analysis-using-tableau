@@ -112,4 +112,4 @@ Without lifestyle changes, only ~30% of users are likely to show measurable impr
 
 ✨ This README is polished for portfolio presentation, with clear sections, KPIs, and placeholders for screenshots.  
 
-Would you like me to also create a **short executive summary version** (1-page style) for recruiters or stakeholders, alongside this detailed README?
+
