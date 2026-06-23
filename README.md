@@ -102,14 +102,6 @@ Without lifestyle changes, only ~30% of users are likely to show measurable impr
 ## 📸 Dashboard Preview
 👉 *[Insert Dashboard Screenshot(s) Here]*  
 
----
 
-## 🏷 Tags
-`#FitnessAnalytics` `#TableauDashboard` `#DataVisualization` `#HealthTech` `#DataAnalysis`
-```
-
----
-
-✨ This README is polished for portfolio presentation, with clear sections, KPIs, and placeholders for screenshots.  
 
 
